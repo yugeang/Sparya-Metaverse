@@ -1,1 +1,1 @@
-# Sparya-Metaverse
+# Sparta-Metaverse
