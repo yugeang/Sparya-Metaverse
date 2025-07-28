@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\topdown_project\\assets\\scripts\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\meleeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|c:\\users\\\uAE40\uC720\uACBD\\desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\topdown_project\\assets\\scripts\\weapon\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\projectilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\resourcecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\dustparticlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\dustparticlecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\manager\\projectilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager\\projectilemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\weapon\\rangeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\rangeweaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon\\weaponhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\animationhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\assets\\scripts\\entity\\stathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E4CE2FC-C5C1-867C-9882-2B4C031E32F5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entity\\stathandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MeleeWeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\MeleeWeaponHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T03:34:34.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:25:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\EnemyManager.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAcwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:06:41.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyController.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\EnemyController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\EnemyController.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\EnemyController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\EnemyController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:35:07.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DustParticleControl.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\DustParticleControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T00:38:37.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectileController.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\ProjectileController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAAwE8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:12:57.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProjectileManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager\\ProjectileManager.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T12:10:06.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RangeWeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\RangeWeaponHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:38:23.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeaponHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Weapon\\WeaponHandler.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:32:18.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResourceController.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\ResourceController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\ResourceController.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\ResourceController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\ResourceController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:44:03.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StatHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\StatHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\StatHandler.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\StatHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\StatHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T08:38:58.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AnimationHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\AnimationHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAADwvx8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:55:18.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\PlayerController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:29:47.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\BaseController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Entity\\BaseController.cs",
+              "ToolTip": "C:\\Users\\\uAE40\uC720\uACBD\\Desktop\\\uC720\uACBD\uD30C\uC77C\\unity\\unity\\TopDown_Project\\Assets\\Scripts\\Entity\\BaseController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Entity\\BaseController.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAYwI4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T05:18:37.98Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
